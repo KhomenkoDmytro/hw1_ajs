@@ -1,0 +1,25 @@
+{
+  "name": "project-x",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KhomenkoDmytro/hw1_ajs.git"
+  },
+  "description": "Dmytro Khomenko fe16",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Dmytro Khomenko",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.29.0",
+    "eslint": "^8.36.0",
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "moment": "^2.29.4"
+  }
+}
